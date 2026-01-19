@@ -1,6 +1,6 @@
 # User Authentication and Authorization using Token
 
-This project implements user authentication and authorization using Bearer tokens in a Node.js application with Express.js, Mongoose, and JWT. The application is structured with the MVC pattern and includes API documentation in Postman.
+This project implements user authentication and authorization using Bearer tokens in a Node.js application with Express.js, Mongoose, and JWT.
 
 
 
