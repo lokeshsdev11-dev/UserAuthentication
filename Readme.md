@@ -3,9 +3,8 @@
 This project implements user authentication and authorization using Bearer tokens in a Node.js application with Express.js, Mongoose, and JWT.
 
 
-
-## Render Deployment URL 
-[Render Deployment](https://userauthenticationapp-ccp1.onrender.com/api/v1/auth/home)
+#postman documentation: 
+https://documenter.getpostman.com/view/38692959/2sAYBUDsEf#intro
 
 Use the sample login :
 
